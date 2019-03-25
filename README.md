@@ -21,7 +21,7 @@ Gamers will expect of sure that you can craft, refine and execute a strategy, th
 
 
 
-![](https://raw.githubusercontent.com/GuillemSanchez/RTS_balancing_Research/master/Docs/Images/Expectations.jpg)
+![](https://raw.githubusercontent.com/GuillemSanchez/RTS_Balancing_Research/master/Docs/Images/Expectations.jpg)
 
 ### Asymmetric Desing
 
